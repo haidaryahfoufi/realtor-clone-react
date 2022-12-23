@@ -62,7 +62,7 @@ export default function Listing() {
               className="relative w-full overflow-hidden h-[300px]"
               style={{
                 background: `url(${listing.imgUrls[index]}) center no-repeat`,
-                backgrounSize: "cover",
+                backgroundSize: "cover",
               }}
             ></div>
           </SwiperSlide>
